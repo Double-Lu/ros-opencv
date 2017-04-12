@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:2:11
+	android:versionName
+		ADDED from AndroidManifest.xml:2:108
+	android:versionCode
+		ADDED from AndroidManifest.xml:2:134
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:49
+	android:installLocation
+		ADDED from AndroidManifest.xml:2:158
+application
+ADDED from AndroidManifest.xml:3:5
+	android:label
+		ADDED from AndroidManifest.xml:3:117
+	android:hardwareAccelerated
+		ADDED from AndroidManifest.xml:3:18
+	android:name
+		ADDED from AndroidManifest.xml:3:53
+activity#org.qtproject.qt5.android.bindings.QtActivity
+ADDED from AndroidManifest.xml:4:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:4:266
+	android:label
+		ADDED from AndroidManifest.xml:4:234
+	android:launchMode
+		ADDED from AndroidManifest.xml:4:310
+	android:configChanges
+		ADDED from AndroidManifest.xml:4:19
+	android:name
+		ADDED from AndroidManifest.xml:4:173
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:5:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:6:17
+	android:name
+		ADDED from AndroidManifest.xml:6:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:7:17
+	android:name
+		ADDED from AndroidManifest.xml:7:27
+meta-data#android.app.lib_name
+ADDED from AndroidManifest.xml:15:13
+	android:value
+		ADDED from AndroidManifest.xml:15:60
+	android:name
+		ADDED from AndroidManifest.xml:15:24
+meta-data#android.app.qt_sources_resource_id
+ADDED from AndroidManifest.xml:16:13
+	android:resource
+		ADDED from AndroidManifest.xml:16:74
+	android:name
+		ADDED from AndroidManifest.xml:16:24
+meta-data#android.app.repository
+ADDED from AndroidManifest.xml:17:13
+	android:value
+		ADDED from AndroidManifest.xml:17:62
+	android:name
+		ADDED from AndroidManifest.xml:17:24
+meta-data#android.app.qt_libs_resource_id
+ADDED from AndroidManifest.xml:18:13
+	android:resource
+		ADDED from AndroidManifest.xml:18:71
+	android:name
+		ADDED from AndroidManifest.xml:18:24
+meta-data#android.app.bundled_libs_resource_id
+ADDED from AndroidManifest.xml:19:13
+	android:resource
+		ADDED from AndroidManifest.xml:19:76
+	android:name
+		ADDED from AndroidManifest.xml:19:24
+meta-data#android.app.bundle_local_qt_libs
+ADDED from AndroidManifest.xml:21:13
+	android:value
+		ADDED from AndroidManifest.xml:21:72
+	android:name
+		ADDED from AndroidManifest.xml:21:24
+meta-data#android.app.bundled_in_lib_resource_id
+ADDED from AndroidManifest.xml:22:13
+	android:resource
+		ADDED from AndroidManifest.xml:22:78
+	android:name
+		ADDED from AndroidManifest.xml:22:24
+meta-data#android.app.bundled_in_assets_resource_id
+ADDED from AndroidManifest.xml:23:13
+	android:resource
+		ADDED from AndroidManifest.xml:23:81
+	android:name
+		ADDED from AndroidManifest.xml:23:24
+meta-data#android.app.use_local_qt_libs
+ADDED from AndroidManifest.xml:25:13
+	android:value
+		ADDED from AndroidManifest.xml:25:69
+	android:name
+		ADDED from AndroidManifest.xml:25:24
+meta-data#android.app.libs_prefix
+ADDED from AndroidManifest.xml:26:13
+	android:value
+		ADDED from AndroidManifest.xml:26:63
+	android:name
+		ADDED from AndroidManifest.xml:26:24
+meta-data#android.app.load_local_libs
+ADDED from AndroidManifest.xml:27:13
+	android:value
+		ADDED from AndroidManifest.xml:27:67
+	android:name
+		ADDED from AndroidManifest.xml:27:24
+meta-data#android.app.load_local_jars
+ADDED from AndroidManifest.xml:28:13
+	android:value
+		ADDED from AndroidManifest.xml:28:67
+	android:name
+		ADDED from AndroidManifest.xml:28:24
+meta-data#android.app.static_init_classes
+ADDED from AndroidManifest.xml:29:13
+	android:value
+		ADDED from AndroidManifest.xml:29:71
+	android:name
+		ADDED from AndroidManifest.xml:29:24
+meta-data#android.app.ministro_not_found_msg
+ADDED from AndroidManifest.xml:31:13
+	android:value
+		ADDED from AndroidManifest.xml:31:24
+	android:name
+		ADDED from AndroidManifest.xml:31:71
+meta-data#android.app.ministro_needed_msg
+ADDED from AndroidManifest.xml:32:13
+	android:value
+		ADDED from AndroidManifest.xml:32:24
+	android:name
+		ADDED from AndroidManifest.xml:32:68
+meta-data#android.app.fatal_error_msg
+ADDED from AndroidManifest.xml:33:13
+	android:value
+		ADDED from AndroidManifest.xml:33:24
+	android:name
+		ADDED from AndroidManifest.xml:33:64
+meta-data#android.app.background_running
+ADDED from AndroidManifest.xml:46:13
+	android:value
+		ADDED from AndroidManifest.xml:46:70
+	android:name
+		ADDED from AndroidManifest.xml:46:24
+meta-data#android.app.auto_screen_scale_factor
+ADDED from AndroidManifest.xml:50:13
+	android:value
+		ADDED from AndroidManifest.xml:50:76
+	android:name
+		ADDED from AndroidManifest.xml:50:24
+meta-data#android.app.extract_android_style
+ADDED from AndroidManifest.xml:59:13
+	android:value
+		ADDED from AndroidManifest.xml:59:73
+	android:name
+		ADDED from AndroidManifest.xml:59:24
+uses-sdk
+ADDED from AndroidManifest.xml:67:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:67:42
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:67:15
+supports-screens
+ADDED from AndroidManifest.xml:68:5
+	android:largeScreens
+		ADDED from AndroidManifest.xml:68:23
+	android:smallScreens
+		ADDED from AndroidManifest.xml:68:106
+	android:normalScreens
+		ADDED from AndroidManifest.xml:68:51
+	android:anyDensity
+		ADDED from AndroidManifest.xml:68:80
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:72:9
+	android:name
+		ADDED from AndroidManifest.xml:72:26
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:73:5
+	android:name
+		ADDED from AndroidManifest.xml:73:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:74:5
+	android:name
+		ADDED from AndroidManifest.xml:74:22
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:75:5
+	android:name
+		ADDED from AndroidManifest.xml:75:22
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:76:5
+	android:name
+		ADDED from AndroidManifest.xml:76:22
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:77:5
+	android:name
+		ADDED from AndroidManifest.xml:77:22
+uses-feature#android.hardware.camera
+ADDED from AndroidManifest.xml:82:9
+	android:required
+		ADDED from AndroidManifest.xml:82:62
+	android:name
+		ADDED from AndroidManifest.xml:82:23
+uses-feature#android.hardware.camera.autofocus
+ADDED from AndroidManifest.xml:83:5
+	android:required
+		ADDED from AndroidManifest.xml:83:68
+	android:name
+		ADDED from AndroidManifest.xml:83:19
+uses-feature#android.hardware.microphone
+ADDED from AndroidManifest.xml:84:5
+	android:required
+		ADDED from AndroidManifest.xml:84:62
+	android:name
+		ADDED from AndroidManifest.xml:84:19
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:85:5
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:85:19
+	android:required
+		ADDED from AndroidManifest.xml:85:52

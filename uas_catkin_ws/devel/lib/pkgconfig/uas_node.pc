@@ -1,0 +1,8 @@
+prefix=/home/tyler/UAS_GS_Client/uas_catkin_ws/devel
+
+Name: uas_node
+Description: Description of uas_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tyler/UAS_GS_Client/uas_catkin_ws/devel/lib 
+Requires: 

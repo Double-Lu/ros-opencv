@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tyler/UAS_GS_Client/android-build/libs/QtMultimedia-bundled.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="873ae8ac8946213faf049756fbe29c7e0d76bcc1">
+        <dex dex="/home/tyler/UAS_GS_Client/android-build/build/intermediates/pre-dexed/debug/QtMultimedia-bundled-6bd750a250123a168460eb2c2ebcecd1aa025226.jar" />
+    </item>
+    <item
+        jar="/home/tyler/UAS_GS_Client/android-build/libs/QtPositioning-bundled.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="59e494653d0f7d55ec4cb7e6bc93eb521bbc10e8">
+        <dex dex="/home/tyler/UAS_GS_Client/android-build/build/intermediates/pre-dexed/debug/QtPositioning-bundled-8ce9e3433936363833c56a2533cd5a29123d27cb.jar" />
+    </item>
+    <item
+        jar="/home/tyler/UAS_GS_Client/android-build/libs/QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="112780e82d8a9b6ac2f0846312416c8d6adc8455">
+        <dex dex="/home/tyler/UAS_GS_Client/android-build/build/intermediates/pre-dexed/debug/QtAndroidBearer-bundled-2679bb93e7859d5c6758e922a11d204b7031e6e6.jar" />
+    </item>
+    <item
+        jar="/home/tyler/UAS_GS_Client/android-build/libs/QtAndroid-bundled.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="96850e33c7c8c46d9ab1ac1f60d8e12e2c7bb110">
+        <dex dex="/home/tyler/UAS_GS_Client/android-build/build/intermediates/pre-dexed/debug/QtAndroid-bundled-21ef85a8aa7959331cffa1bba149c7dfe07f475c.jar" />
+    </item>
+
+</items>

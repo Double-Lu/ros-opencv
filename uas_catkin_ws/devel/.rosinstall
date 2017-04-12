@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tyler/UAS_GS_Client/uas_catkin_ws/devel/setup.sh
